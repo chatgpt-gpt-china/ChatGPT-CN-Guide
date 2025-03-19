@@ -2,7 +2,7 @@
 
 国内能轻松使用的 [**ChatGPT 中文版**](https://chat.yixiaai.com)，**无需翻墙**，**支持 GPT-4、4o、o1、o3 及中文版功能**
 
-本指南提供 **[ChatGPT 中文版](https://chat.yixiaai.com)使用方法**，并分享国内可用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 和详细使用教程，帮助您快速上手 ChatGPT ~
+本指南提供 **[ChatGPT 中文版](https://chat.lanjing.ai)使用方法**，并分享国内可用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com) 和详细使用教程，帮助您快速上手 ChatGPT ~
 
 **ChatGPT 中文版入口：[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
 **ChatGPT 镜像网站：[https://chat.lanjing.ai](https://chat.lanjing.ai)**
