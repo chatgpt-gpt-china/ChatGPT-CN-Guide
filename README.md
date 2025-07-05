@@ -27,7 +27,7 @@
 - [https://xsimplechat.com/](https://xsimplechat.com/) - **ChatGPT中文版**，运营2年+，支持 GPT4、4o 及 o1、o3，支持 AI绘画、AI助手、AI插件、AI PPT 等功能，扫码就能用~
 - [https://chat.lanjingai.org/](https://chat.lanjingai.org/) - **ChatGPT 中文站**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 - [https://chat.lify.vip/](https://chat.yixiaai.com/) - **ChatGPT镜像网站**，运营2年多，支持 GPT4、4o、o1 和 o3 模型，还有对话、写作、编程、翻译、办公等等~
-- [https://talk.lanjing.pro/](https://talk.lanjing.pro/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://gpt.lanjing.pro/](https://gpt.lanjing.pro/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 - [https://lanjing.pro/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
